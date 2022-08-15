@@ -1,0 +1,26 @@
+#main {
+    background:#FFD5ED;
+    border-radius:10px;
+  }
+  #img-div {
+    background:#FFFFFF;
+    border-radius:10px;
+    text-align: center;
+  }
+  #title {
+    text-align: center;
+  }
+  #nazvanie {
+    text-align: center;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+  }
+  #tribute-info {
+    text-align: center;
+  }
